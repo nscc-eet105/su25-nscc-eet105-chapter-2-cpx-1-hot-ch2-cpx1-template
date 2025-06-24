@@ -49,3 +49,9 @@ Now that you have a flashing red LED lets add one of the neopixels
 
 ### Submit Your Assignment
 Save a copy of your final code.py in your repo. Add, Commit, and Push your final code to Github
+
+### Rubric
+- 2 - General
+- 2 - First led
+- 2 - Second led
+- 2 - Third led
